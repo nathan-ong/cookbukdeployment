@@ -1,2 +1,2 @@
-# cookbukdeployment
-Deployment ready repo for cookbük
+# CookBük
+Recipe &amp; Pantry Inventory Application
